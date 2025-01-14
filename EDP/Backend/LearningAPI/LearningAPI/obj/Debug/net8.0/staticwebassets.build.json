@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "jXlSaVdG9ljd5bkqXB+tEXOPzahO/JjI8VRVWlFDqAI=",
+  "Source": "LearningAPI",
+  "BasePath": "_content/LearningAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LearningAPI\\wwwroot",
+      "Source": "LearningAPI",
+      "ContentRoot": "C:\\Users\\latif\\Source\\Repos\\EDP\\EDP\\Backend\\LearningAPI\\LearningAPI\\wwwroot\\",
+      "BasePath": "_content/LearningAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\latif\\Source\\Repos\\EDP\\EDP\\Backend\\LearningAPI\\LearningAPI\\wwwroot\\uploads\\README.md",
+      "SourceId": "LearningAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\latif\\Source\\Repos\\EDP\\EDP\\Backend\\LearningAPI\\LearningAPI\\wwwroot\\",
+      "BasePath": "_content/LearningAPI",
+      "RelativePath": "uploads/README.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\README.md"
+    }
+  ]
+}
