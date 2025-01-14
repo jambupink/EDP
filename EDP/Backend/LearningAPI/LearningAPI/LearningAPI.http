@@ -65,3 +65,51 @@ DELETE {{LearningAPI_HostAddress}}/tutorial/2
 Authorization: Bearer {{token}}
 
 ###
+
+
+POST {{LearningAPI_HostAddress}}/order
+Content-Type: application/json
+
+{
+  //Order
+}
+
+###
+
+DELETE {{LearningAPI_HostAddress}}/order/0
+
+###
+
+GET {{LearningAPI_HostAddress}}/order/0
+
+###
+
+GET {{LearningAPI_HostAddress}}/order/0
+
+###
+
+POST {{LearningAPI_HostAddress}}/orderitem
+Content-Type: application/json
+
+{
+  //OrderItem
+}
+
+###
+
+GET {{LearningAPI_HostAddress}}/orderitem/0
+
+###
+
+POST {{LearningAPI_HostAddress}}/payment
+Content-Type: application/json
+
+{
+  //Payment
+}
+
+###
+
+GET {{LearningAPI_HostAddress}}/payment/0
+
+###
