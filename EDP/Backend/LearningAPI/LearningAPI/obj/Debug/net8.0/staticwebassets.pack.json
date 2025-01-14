@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\latif\\Source\\Repos\\EDP\\EDP\\Backend\\LearningAPI\\LearningAPI\\wwwroot\\uploads\\README.md",
+      "PackagePath": "staticwebassets\\uploads\\README.md"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LearningAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LearningAPI.props",
+      "PackagePath": "build\\LearningAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LearningAPI.props",
+      "PackagePath": "buildMultiTargeting\\LearningAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LearningAPI.props",
+      "PackagePath": "buildTransitive\\LearningAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
